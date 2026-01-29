@@ -1,4 +1,4 @@
-# 🚀 REST API Learning Project (Express + EJS)
+#  REST API Learning Project (Express + EJS)
 
 ## 📌 Project Overview
 
@@ -202,4 +202,4 @@ http://localhost:8080/posts
 ## 👨‍💻 Author
 Kushagra Tiwari
 <br>
-CSE Student
+CSE Student🚀
